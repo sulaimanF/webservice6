@@ -1,0 +1,7 @@
+{"mahasiswa":
+    [
+        {"nim":"41180100","nama":"Fahmi","tgl_lahir":"1999-10-09","jkelamin":"Pria","jurusan":"Teknik Informatika","alamat":"Cirebon"},
+        {"nim":"41180101","nama":"Udin","tgl_lahir":"1999-09-09","jkelamin":"Pria","jurusan":"Teknik Informatika","alamat":"Cirebon"},
+        {"nim":"41180102","nama":"Puji","tgl_lahir":"1999-12-12","jkelamin":"Pria","jurusan":"Teknik Informatika","alamat":"Cirebon"}
+    ]
+}

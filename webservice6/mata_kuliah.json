@@ -1,0 +1,6 @@
+{"mata_kuliah":
+    [
+        {"kode_mk":"MK-001","nama_mk":"Pancasila","jurusan":"1","jenis":"1","sks":"2"},
+        {"kode_mk":"MK-002","nama_mk":"Algoritma","jurusan":"1","jenis":"1","sks":"3"}
+    ]
+}
